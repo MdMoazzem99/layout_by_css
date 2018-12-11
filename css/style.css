@@ -1,0 +1,24 @@
+#header{
+	background-color: red;
+	min-height: 100px;
+}
+#body{
+	border: 5px solid green;
+	overflow: hidden;
+}
+#blog{
+	background-color: blue;
+	min-height: 400px;
+	float: left;
+	width: 30%;
+}
+#Banner{
+	background-color: yellow;
+	min-height: 400px;
+	float: right;
+	width: 70%;
+}
+#footer{
+	background-color: brown;
+	min-height: 100px;
+}
