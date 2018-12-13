@@ -3,6 +3,7 @@
 	min-height: 100px;
 }
 #body{
+	/*border: 5px solid black;*/
 	overflow: hidden;
 }
 #blog{
